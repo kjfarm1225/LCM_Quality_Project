@@ -6,7 +6,7 @@ Excel ブックと参照テーブルを管理しています。
 
 ---
 
-## 📂 フォルダ構成
+## 📂 フォルダ構成ga
 
 ```plaintext
 LCM_Quality_Project/
